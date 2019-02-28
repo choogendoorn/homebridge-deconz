@@ -1,5 +1,6 @@
 {
   "name": "homebridge-deconz",
+  "author": "Cedric Hoogendoorn <choogendoorn@me.com>",
   "version": "0.0.1",
   "description": "Sample Platform plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
